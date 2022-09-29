@@ -1,0 +1,54 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: item-service
+  main:
+      allow-bean-definition-overriding: true #当遇到同样名字的时候，是否允许覆盖注册
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ruoyi?serverTimezone=UTC
+    username: root
+    password: 1234
+    hikari:
+      max-lifetime: 28830000 # 一个连接的生命时长（毫秒），超时而且没被使用则被释放（retired），缺省:30分钟，建议设置比数据库超时时长少30秒，参考MySQL wait_timeout参数（show variables like '%timeout%';）
+      maximum-pool-size: 9 # 连接池中允许的最大连接数。缺省值：10；推荐的公式：((core_count * 2) + effective_spindle_count)
+  redis:
+    host: 127.0.0.1
+    database: 0
+    password: root
+    port: 6379
+# MyBatis
+mybatis:
+  # 搜索指定包别名
+  typeAliasesPackage: com.ruoyi
+  # 配置mapper的扫描，找到所有的mapper.xml映射文件
+  mapperLocations: classpath*:mapper/*Mapper.xml
+  # 加载全局的配置文件
+  configLocation: classpath:mapper/mybatis-config.xml
+  cloud:
+    nacos:
+      server-addr: 127.0.0.1:8848
+      discovery:
+        username: nacos
+        password: nacos
+#eureka:
+#  client:
+##    register-with-eureka: false
+##    fetch-registry: false
+#    service-url:
+#      defaultZone:  http://127.0.0.1:10086/eureka
+#
+#  instance:
+#    lease-expiration-duration-in-seconds: 10  # 10秒不发送就过期
+#    lease-renewal-interval-in-seconds: 5 # 5秒钟发送一次心跳
+rocketmq:
+  name-server: 127.0.0.1:9876
+  #name-server: http://MQ_INST_1233745339807862_BXaR3LLK.mq-internet-access.mq-internet.aliyuncs.com:80
+  producer:
+    group: JXB_ORDER_GROUP
+    #    access-key: ${aliyun.mq.access.id}
+    #    secret-key: ${aliyun.mq.access.key}
+    send-message-timeout: 30000
+

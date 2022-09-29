@@ -1,0 +1,9 @@
+# Project exclude paths
+/skt-common/target/
+/skt-gateway/target/
+/skt-goods-web/target/
+/skt-item/skt-item-interface/target/
+/skt-item/skt-item-service/target/
+/skt-registry/target/
+/skt-search/target/
+/skt-upload/target/

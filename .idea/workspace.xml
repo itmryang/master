@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64f3f16f-8e3b-499b-943c-2cc30a9bc5f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/toools/repository" />
+        <option name="mavenHome" value="$USER_HOME$/toools/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/toools/apache-maven-3.5.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="29nEVNlKCkdaCiWSQM4co9LxWe7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/skt-goods-web/src/main/java/com/skt/util" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.23103449" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/skt-goods-web/src/main/java/com/skt/util" />
+      <recent name="$PROJECT_DIR$/skt-item/skt-item-service/src/main/java/com/skt/item/config" />
+      <recent name="$PROJECT_DIR$/skt-common/src/main/java/skt/common/pojo/config" />
+      <recent name="$PROJECT_DIR$/skt-goods-web/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/skt-item/skt-item-service/src/main/resources/mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.skt.item.message" />
+      <recent name="com.skt.dto" />
+      <recent name="com.skt.mapper" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/skt-goods-web/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/skt-item/skt-item-service/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/skt-parent" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn denpendecy:tree" />
+      <command value="mvn denpendency: tree" />
+      <command value="mvn dependency:tree" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SktGoodsApplication">
+    <configuration name="ElasticsearchTest.createIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="skt-search" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElasticsearchTest" />
+      <option name="METHOD_NAME" value="createIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ElasticsearchTest.run" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="skt-search" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ElasticsearchTest" />
+      <option name="METHOD_NAME" value="run" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SktGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="skt-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.skt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skt.SktGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SktGoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="skt-goods-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skt.SktGoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SktItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="skt-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skt.item.SktItemServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SktNacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="skt-nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skt.skt.nacos.SktNacosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SktRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="skt-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skt.SktRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SktSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="skt-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skt.SktSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SktUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="skt-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.skt.SktUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ElasticsearchTest.createIndex" />
+      <item itemvalue="JUnit.ElasticsearchTest.run" />
+      <item itemvalue="Spring Boot.SktGoodsApplication" />
+      <item itemvalue="Spring Boot.SktItemServiceApplication" />
+      <item itemvalue="Spring Boot.SktRegistryApplication" />
+      <item itemvalue="Spring Boot.SktSearchApplication" />
+      <item itemvalue="Spring Boot.SktUploadApplication" />
+      <item itemvalue="Spring Boot.SktNacosApplication" />
+      <item itemvalue="Spring Boot.SktGatewayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SktGatewayApplication" />
+        <item itemvalue="JUnit.ElasticsearchTest.run" />
+        <item itemvalue="JUnit.ElasticsearchTest.createIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64f3f16f-8e3b-499b-943c-2cc30a9bc5f9" name="Default Changelist" comment="" />
+      <created>1653740471999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653740471999</updated>
+      <workItem from="1653740473504" duration="2754000" />
+      <workItem from="1653743263089" duration="924000" />
+      <workItem from="1653744280368" duration="955000" />
+      <workItem from="1653745359838" duration="321000" />
+      <workItem from="1653752800063" duration="387000" />
+      <workItem from="1653753263777" duration="137000" />
+      <workItem from="1653753435682" duration="5308000" />
+      <workItem from="1653915368999" duration="2135000" />
+      <workItem from="1663917647242" duration="25279000" />
+      <workItem from="1663994357334" duration="740000" />
+      <workItem from="1663995127781" duration="714000" />
+      <workItem from="1663995925967" duration="823000" />
+      <workItem from="1663996785577" duration="2721000" />
+      <workItem from="1664018867410" duration="5847000" />
+      <workItem from="1664024862536" duration="11652000" />
+      <workItem from="1664071497954" duration="13000" />
+      <workItem from="1664071527448" duration="7574000" />
+      <workItem from="1664110241314" duration="3388000" />
+      <workItem from="1664288800429" duration="3270000" />
+      <workItem from="1664296477772" duration="30429000" />
+      <workItem from="1664383054753" duration="1418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="95" key="#Inspections" timestamp="1664295394170">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="326" y="95" key="#Inspections/0.25.1440.794@0.25.1440.794" timestamp="1664295394170" />
+    <state x="360" y="30" key="#SpringApplication" timestamp="1663950153387">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="360" y="30" key="#SpringApplication/0.25.1440.794@0.25.1440.794" timestamp="1663950153387" />
+    <state x="167" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1664022336019">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="167" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.794@0.25.1440.794" timestamp="1664022336019" />
+    <state x="460" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1664373930183">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="460" y="123" key="#com.intellij.ide.util.MemberChooser/0.25.1440.794@0.25.1440.794" timestamp="1664373930183" />
+    <state width="400" height="466" key="DebuggerActiveHint" timestamp="1664357306220">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="400" height="466" key="DebuggerActiveHint/0.25.1440.794@0.25.1440.794" timestamp="1664357306220" />
+    <state width="1289" height="265" key="GridCell.Tab.0.bottom" timestamp="1664428084931">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.0.bottom/0.25.1440.794@0.25.1440.794" timestamp="1664427495696" />
+    <state width="1289" height="265" key="GridCell.Tab.0.bottom/0.25.1440.797@0.25.1440.797" timestamp="1664428084931" />
+    <state width="1358" height="213" key="GridCell.Tab.0.bottom/0.25.1440.799@0.25.1440.799" timestamp="1663940723516" />
+    <state width="1358" height="213" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1663938949228" />
+    <state width="1289" height="265" key="GridCell.Tab.0.center" timestamp="1664428084930">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.0.center/0.25.1440.794@0.25.1440.794" timestamp="1664427495695" />
+    <state width="1289" height="265" key="GridCell.Tab.0.center/0.25.1440.797@0.25.1440.797" timestamp="1664428084930" />
+    <state width="1358" height="213" key="GridCell.Tab.0.center/0.25.1440.799@0.25.1440.799" timestamp="1663940723515" />
+    <state width="1358" height="213" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1663938949227" />
+    <state width="1289" height="265" key="GridCell.Tab.0.left" timestamp="1664428084930">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.0.left/0.25.1440.794@0.25.1440.794" timestamp="1664427495694" />
+    <state width="1289" height="265" key="GridCell.Tab.0.left/0.25.1440.797@0.25.1440.797" timestamp="1664428084930" />
+    <state width="1358" height="213" key="GridCell.Tab.0.left/0.25.1440.799@0.25.1440.799" timestamp="1663940723515" />
+    <state width="1358" height="213" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1663938949227" />
+    <state width="1289" height="265" key="GridCell.Tab.0.right" timestamp="1664428084931">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.0.right/0.25.1440.794@0.25.1440.794" timestamp="1664427495696" />
+    <state width="1289" height="265" key="GridCell.Tab.0.right/0.25.1440.797@0.25.1440.797" timestamp="1664428084931" />
+    <state width="1358" height="213" key="GridCell.Tab.0.right/0.25.1440.799@0.25.1440.799" timestamp="1663940723516" />
+    <state width="1358" height="213" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1663938949228" />
+    <state width="1289" height="265" key="GridCell.Tab.1.bottom" timestamp="1664428084932">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.1.bottom/0.25.1440.794@0.25.1440.794" timestamp="1664427495698" />
+    <state width="1289" height="265" key="GridCell.Tab.1.bottom/0.25.1440.797@0.25.1440.797" timestamp="1664428084932" />
+    <state width="1289" height="265" key="GridCell.Tab.1.center" timestamp="1664428084931">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.1.center/0.25.1440.794@0.25.1440.794" timestamp="1664427495697" />
+    <state width="1289" height="265" key="GridCell.Tab.1.center/0.25.1440.797@0.25.1440.797" timestamp="1664428084931" />
+    <state width="1289" height="265" key="GridCell.Tab.1.left" timestamp="1664428084931">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.1.left/0.25.1440.794@0.25.1440.794" timestamp="1664427495697" />
+    <state width="1289" height="265" key="GridCell.Tab.1.left/0.25.1440.797@0.25.1440.797" timestamp="1664428084931" />
+    <state width="1289" height="265" key="GridCell.Tab.1.right" timestamp="1664428084931">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.1.right/0.25.1440.794@0.25.1440.794" timestamp="1664427495698" />
+    <state width="1289" height="265" key="GridCell.Tab.1.right/0.25.1440.797@0.25.1440.797" timestamp="1664428084931" />
+    <state width="1289" height="265" key="GridCell.Tab.2.bottom" timestamp="1664428084932">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.2.bottom/0.25.1440.794@0.25.1440.794" timestamp="1664427495699" />
+    <state width="1289" height="265" key="GridCell.Tab.2.bottom/0.25.1440.797@0.25.1440.797" timestamp="1664428084932" />
+    <state width="1289" height="265" key="GridCell.Tab.2.center" timestamp="1664428084932">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.2.center/0.25.1440.794@0.25.1440.794" timestamp="1664427495698" />
+    <state width="1289" height="265" key="GridCell.Tab.2.center/0.25.1440.797@0.25.1440.797" timestamp="1664428084932" />
+    <state width="1289" height="265" key="GridCell.Tab.2.left" timestamp="1664428084932">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.2.left/0.25.1440.794@0.25.1440.794" timestamp="1664427495698" />
+    <state width="1289" height="265" key="GridCell.Tab.2.left/0.25.1440.797@0.25.1440.797" timestamp="1664428084932" />
+    <state width="1289" height="265" key="GridCell.Tab.2.right" timestamp="1664428084932">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state width="1289" height="265" key="GridCell.Tab.2.right/0.25.1440.794@0.25.1440.794" timestamp="1664427495698" />
+    <state width="1289" height="265" key="GridCell.Tab.2.right/0.25.1440.797@0.25.1440.797" timestamp="1664428084932" />
+    <state x="212" y="25" key="SettingsEditor" timestamp="1664106223881">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="212" y="25" key="SettingsEditor/0.25.1440.794@0.25.1440.794" timestamp="1664106223881" />
+    <state x="212" y="49" key="SettingsEditor/0.25.1440.797@0.25.1440.797" timestamp="1663942447324" />
+    <state x="212" y="49" key="SettingsEditor/0.25.1440.799@0.25.1440.799" timestamp="1663939850637" />
+    <state width="842" height="445" key="SwitcherDM" timestamp="1664090486328">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state width="842" height="445" key="SwitcherDM/0.25.1440.794@0.25.1440.794" timestamp="1664090486328" />
+    <state x="195" y="139" key="new project wizard" timestamp="1664094695892">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="195" y="139" key="new project wizard/0.25.1440.794@0.25.1440.794" timestamp="1664094695892" />
+    <state x="368" y="185" width="670" height="675" key="run.anything.popup" timestamp="1664025871945">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="368" y="185" width="670" height="675" key="run.anything.popup/0.25.1440.794@0.25.1440.794" timestamp="1664025871945" />
+    <state x="338" y="143" width="670" height="676" key="search.everywhere.popup" timestamp="1664383076255">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="338" y="143" width="670" height="676" key="search.everywhere.popup/0.25.1440.794@0.25.1440.794" timestamp="1664383076255" />
+    <state x="338" y="143" width="670" height="679" key="search.everywhere.popup/0.25.1440.797@0.25.1440.797" timestamp="1664297288026" />
+    <state x="257" y="101" key="spring file set editor" timestamp="1664031028787">
+      <screen x="0" y="25" width="1440" height="794" />
+    </state>
+    <state x="257" y="101" key="spring file set editor/0.25.1440.794@0.25.1440.794" timestamp="1664031028787" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/toools/repository/org/springframework/boot/spring-boot/2.1.5.RELEASE/spring-boot-2.1.5.RELEASE-sources.jar!/org/springframework/boot/SpringApplication.java</url>
+          <line>263</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
